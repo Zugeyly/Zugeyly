@@ -1,6 +1,8 @@
 ### Hi there 👋
+Mi nombre es Zugeyly Martinez, tengo 20 años y estoy estudiando Ingenieria en sistemas computacionales.
 Soy una desarrolladora web especializada en frontend, por el momento..., 
 aun estoy en proceso de aprendisaje pero aqui podras encontrar algunos de mis proyectos.
+
 No es mucho pero es trabajo honesto :3
 
 🔭 I’m currently working on frontend development. 
